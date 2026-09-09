@@ -1,6 +1,6 @@
 # Olá! Eu sou o Rafael 👋
 
-## 💻 Desenvolvedor Júnior | Full-Stack
+## 💻 Desenvolvedor Júnior | Web Development
 
 Sou desenvolvedor em início de carreira e concluí uma formação profissional
 em programação pelo IEFP, em Portugal.
