@@ -25,6 +25,11 @@ e procuro a minha primeira oportunidade profissional na área de TI.
 - Git e GitHub
 - Inteligência Artificial
 
+## 🌍 Idiomas
+
+- 🇵🇹 Português — Fluente
+- 🇬🇧 Inglês — Em desenvolvimento, com formação contínua através de curso online
+
 ## 🎓 Formação
 
 **Formação em Programação — IEFP**
