@@ -1,12 +1,67 @@
-## Olá, eu sou o Eliakim Rafael Dos Santos! 👋
-### Desenvolvedor Full-Stack em Construção | Vila Do Conde - Porto, Portugal 🇵🇹
- 
-### 🚀 Sobre mim
-Desenvolvedor apaixonado por transformar lógica em soluções visuais e automações eficientes. Atualmente, aprofundo os meus conhecimentos no **IEFP Aveiro**, focando-me na criação de ecossistemas digitais que unem design moderno e engenharia de dados.
- 
-- 🚀 Meu primeiro projeto foi o site Pessoal em PlayList de Musicas.
-- 🛠️ Atualmente focado em dominar HTML, CSS, JavaScript, SQL e Git/GitHub.
-- 🌎 Localizado em: Vila Do Conde - Porto - Portugal.
+# Olá! Eu sou o Rafael 👋
+
+## 💻 Desenvolvedor Júnior | Full-Stack
+
+Sou desenvolvedor em início de carreira e concluí uma formação profissional
+em programação pelo IEFP, em Portugal.
+
+Durante a formação desenvolvi competências em desenvolvimento web,
+bases de dados, programação orientada a objetos e inteligência artificial.
+
+Atualmente estou desenvolvendo projetos para fortalecer o meu portfólio
+e procuro a minha primeira oportunidade profissional na área de TI.
+
+## 🚀 Conhecimentos
+
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Bases de Dados
+- Desenvolvimento Frontend
+- Desenvolvimento Backend
+- Programação Orientada a Objetos
+- Algoritmos
+- Git e GitHub
+- Inteligência Artificial
+
+## 🎓 Formação
+
+**Formação em Programação — IEFP**
+
+Principais áreas estudadas:
+
+- Desenvolvimento de algoritmos
+- Estruturação de bases de dados e programação em SQL
+- Programação Web Frontend
+- Programação Web Server-Side
+- Programação Orientada a Objetos
+- Projeto de tecnologias e programação de sistemas de informação
+- Sistemas de Inteligência Artificial
+
+## 📂 Projetos
+
+Aqui no meu GitHub você encontrará projetos desenvolvidos durante
+a minha formação e também projetos pessoais.
+
+Estou continuamente melhorando esses projetos e desenvolvendo novos
+trabalhos para aplicar na prática os conhecimentos adquiridos.
+
+## 🎯 Objetivo profissional
+
+Procuro a minha primeira oportunidade como **Desenvolvedor Júnior**,
+onde possa continuar aprendendo, contribuir com a equipa e evoluir
+profissionalmente na área de desenvolvimento de software.
+
+## 📫 Contato
+
+- GitHub: EliakimRafael
+- Localização: Portugal 🇵🇹
+
+---
+
+⭐ Sempre aberto a aprender, colaborar em projetos e conhecer outros
+profissionais da área de tecnologia.
  
 ---
  
